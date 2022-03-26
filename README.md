@@ -1,5 +1,5 @@
 # Password Generator
-As employees with access to sensitive data, we needed a way to randomly generate a password that meets certain criteria so that I can create a strong password that provides greater security.
+As employees with access to sensitive data, we needed a way to randomly generate a password that meets certain criteria so that we can create a strong password that provides greater security.
 
 ## How it works
 * Click the button to generate a password.
