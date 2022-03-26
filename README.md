@@ -8,7 +8,7 @@ As employees with access to sensitive data, we needed a way to randomly generate
 
 * Once user input prompt is complete a password will write to the textarea box with the "Your Secure Password" placeholder in the Generate a Password section of the page.
 
-## Built in safety
+## Built-in safety
 * Your inputs will be validated to ensure prevention of invalid inputs.
 
 * When prompted to choose a length, you must enter at least 8 characters and no more than 128 characters.
