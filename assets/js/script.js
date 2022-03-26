@@ -23,7 +23,7 @@ function collectUserData () {
       }
       else {
         window.alert("Invalid entry. Please enter a NUMBER of characters for your password length. The NUMBER you enter must be no lower than 8 and no higher than 128. Try again!");
-        collectUserData();
+        characterLength();
       }
 
     var useLowerCase = window.confirm("Would you like to include LOWERCASE letters in this password?");
